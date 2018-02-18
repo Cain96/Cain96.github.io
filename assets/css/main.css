@@ -1882,6 +1882,7 @@
 			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
+			font-size: 18pt;
 			text-transform: none !important;
 		}
 
@@ -1922,15 +1923,15 @@
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #000000;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #3b5998;
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #0077B5;
 		}
 
 /* Image */
@@ -1960,7 +1961,7 @@
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 20%;
 		}
 
 			.image.left img, .image.right img {
@@ -2799,8 +2800,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
-			color: #d3d4e4;
+			background-color: #512DA8;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
@@ -3389,7 +3389,7 @@
 		-ms-justify-content: center;
 		justify-content: center;
 		cursor: default;
-		height: 100vh;
+		height: 50vh;
 		min-height: 35em;
 		overflow: hidden;
 		position: relative;
